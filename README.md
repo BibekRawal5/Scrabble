@@ -1,0 +1,2 @@
+# Scrabble
+Scrabble in C
